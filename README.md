@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pol</h1>
 <h3 align="center">A programming student</h3>
 
-- 🔭 I’m currently working on **RESTAURANT-LACETANIA**
-
 - 🌱 I’m currently learning **PHP, JavaScript, CSS**
-
-- 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **poletesan03@gmail.com**
 
