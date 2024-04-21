@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pol</h1>
 
-- 🌱 I’m currently learning **PHP, JavaScript, CSS**
+- 🌱 I’m currently learning **Laravel, Vue, TailwindCSS**
 
 - 📫 How to reach me **poletesan03@gmail.com**
 
